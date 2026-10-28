@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  slug: projets
+- title: Ce que je propose
+  slug: ce-que-je-propose
   target: "/projets/"
   kind: page
   new_tab: false
